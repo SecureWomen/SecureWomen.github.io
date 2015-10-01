@@ -36,8 +36,9 @@ colors:
   blue:			'#00C0FC'
   indigo:		'#5A81FF'
   purple:		'#5D19AF'
-  lightblue:    '#BDAEC6'
-  lightblue1:   '#9C8AA5'
+
+  mauve:        '#BDAEC6'
+  darkmauve:    '#9C8AA5'
   lightblue2:   '#C1E0F7'
   pinkpurple:   '#732C7B'
   lightpurple:  '#421C52'

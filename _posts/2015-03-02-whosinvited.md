@@ -1,6 +1,6 @@
 ---
 title: "Who's invited?"
-bg: lightblue  #defined in _config.yml, can use html color like '#0fbfcf'
+bg: mauve  #defined in _config.yml, can use html color like '#0fbfcf'
 color: white   #text color
 fa-icon: info
 ---
