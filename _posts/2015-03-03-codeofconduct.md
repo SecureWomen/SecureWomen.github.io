@@ -1,5 +1,5 @@
 ---
-title: "The Rules"
+title: "Code of Conduct"
 bg: darkmauve  #defined in _config.yml, can use html color like '#0fbfcf'
 color: white   #text color
 fa-icon: group
