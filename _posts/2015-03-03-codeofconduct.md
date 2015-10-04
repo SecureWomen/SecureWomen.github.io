@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rules"
 bg: darkmauve  #defined in _config.yml, can use html color like '#0fbfcf'
 color: white   #text color
@@ -7,7 +7,7 @@ fa-icon: group
 
 ## Secure Women Community Code of Conduct ##
 
-“Secure Women” in this document refers to the Secure Women chat group at [securewomen.slack.com](http://securewomen.slack.com). “The administrators” refers to the administrators on this organization, a list is available at the top of the [Team Directory](https://womenintech.slack.com/team) (must be a member of the organization to view).
+“Secure Women” in this document refers to the Secure Women chat group at [securewomen.slack.com](http://securewomen.slack.com). “The administrators” refers to the administrators on this organization, a list is available at the top of the [Team Directory](https://securewomen.slack.com/team) (must be a member of the organization to view).
 
 Secure Women is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
@@ -43,7 +43,7 @@ Some Secure Women spaces may have additional rules in place, which will be made 
 
 ## Reporting ##
 
-If you are being harassed by a member of Secure Women, notice that someone else is being harassed, or have any other concerns, please contact [@rachaelh](https://womenintech.slack.com/team/rachaelh) directly via DM.
+If you are being harassed by a member of Secure Women, notice that someone else is being harassed, or have any other concerns, please contact [@laurabell](https://womenintech.slack.com/team/laurabell) directly via DM.
 
 This code of conduct applies to Secure Women spaces, but if you are being harassed by a member of Secure Women outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by Secure Women members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from Secure Women based on their past behavior, including behavior outside Secure Women spaces and behavior towards people who are not in Secure Women.
 
