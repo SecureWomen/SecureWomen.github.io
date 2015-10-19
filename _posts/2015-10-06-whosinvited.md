@@ -3,7 +3,6 @@ title: "Who's invited?"
 bg: mauve  #defined in _config.yml, can use html color like '#0fbfcf'
 color: white   #text color
 fa-icon: info
-date:2015-10-06 07:00:00
 ---
 
 ## You are welcome to join Secure Women chat if you identify as a woman <em>in any way that's meaningful to you</em> and are interested in security. ##

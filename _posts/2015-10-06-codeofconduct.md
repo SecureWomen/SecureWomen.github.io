@@ -3,7 +3,6 @@ title: "rules"
 bg: darkmauve  #defined in _config.yml, can use html color like '#0fbfcf'
 color: white   #text color
 fa-icon: group
-date:2015-10-06 05:00:00
 ---
 
 ## Secure Women Code of Conduct ##
