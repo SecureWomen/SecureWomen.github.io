@@ -7,9 +7,6 @@ fa-icon: group
 
 ## Secure Women Code of Conduct
 
-### Our Mission Statement
-
-To promote women in the security field in effort to increase female representation.
 
 ### Our Values and Behaviours
 
