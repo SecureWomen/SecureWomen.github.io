@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
 <head>
@@ -27,10 +29,10 @@
       {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
       <div id="{{id}}" class="section p-{{id}}">
         {% if page.icon %}
-        <div class="subtlecircle sectiondivider imaged">
-          <img src="{{page.icon}}" alt="section icon" />
-          <h5 class="icon-title">HELP {{ page.title }}</h5>
-        </div>
+        <!--<div class="subtlecircle sectiondivider imaged">-->
+          <!--<img src="{{page.icon}}" alt="section icon" />-->
+          <!--<h5 class="icon-title">HELP {{ page.title }}</h5>-->
+        <!--</div>-->
         {% elsif page.fa-icon %}
         <div class="subtlecircle sectiondivider faicon">
           <span class="fa-stack">
