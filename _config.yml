@@ -17,7 +17,7 @@ highlighter: pygments
 ### content configuration ###
 title:       "Secure Women Chat Group"
 keywords:    "security,women,community, slack"
-description: "Public landing page for Secure Women chat group. Read code of conduct, request invite here."
+description: "Public landing page for Secure Women chat group. Read code of conduct, request invite here.."
 source_link: "http://securewomen.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
